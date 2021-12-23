@@ -1,3 +1,18 @@
+Installation
+
+Clone the repo and cd into it
+composer install
+Rename or copy .env.example file to .env
+php artisan key:generate
+Set your database credentials in your .env file
+php artisan serve or use Laravel Valet or Laravel Homestead
+Visit localhost:8000 in your browser
+
+
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
