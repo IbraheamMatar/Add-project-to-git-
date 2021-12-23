@@ -1,12 +1,12 @@
-Installation
+##Installation
 
-Clone the repo and cd into it
-composer install
-Rename or copy .env.example file to .env
-php artisan key:generate
-Set your database credentials in your .env file
-php artisan serve or use Laravel Valet or Laravel Homestead
-Visit localhost:8000 in your browser
+<p>Clone the repo and cd into it</p>
+<p>composer install</p>
+<p>Rename or copy .env.example file to .env</p>
+<p>php artisan key:generate</p>
+<p>Set your database credentials in your .env file</p>
+<p>php artisan serve or use Laravel Valet or Laravel Homestead</p>
+<p>Visit localhost:8000 in your browser</p>
 
 
 
