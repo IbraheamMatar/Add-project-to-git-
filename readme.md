@@ -1,4 +1,5 @@
-##Installation
+
+## Installation
 
 <p>Clone the repo and cd into it</p>
 <p>composer install</p>
